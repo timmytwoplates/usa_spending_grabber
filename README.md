@@ -24,4 +24,4 @@ A high-performance desktop utility designed to interface with the [USAspending.g
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/usa-spending-pro.git](https://github.com/YOUR_USERNAME/usa-spending-pro.git)
+   git clone [https://github.com/timmytwoplates/usa-spending-pro.git](https://github.com/timmytwoplates/usa-spending-pro.git)
